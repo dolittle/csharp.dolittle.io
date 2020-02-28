@@ -1,0 +1,11 @@
+###############
+#    folder   #
+###############
+Source/**/DROP/
+Source/**/TEMP/
+Source/**/packages/
+Source/**/bin/
+Source/**/obj/
+Source/_site
+Source/_exported_templates
+Source/api/
